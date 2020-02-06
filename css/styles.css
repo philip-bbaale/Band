@@ -1,0 +1,68 @@
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+  //  background-color: #FFCC00;
+}
+.sidebar{
+  float: left;
+  width: 25%;
+  height: 100vh;
+  background-color: grey;
+  color: white;
+}
+.events{
+  height: 90%;
+  width: 90%;
+  margin-left: 15px;
+  border: 2px solid ;
+  border-radius: 5px;
+}
+.eventsec{
+  padding-top: 10px;
+  padding-left: 10px;
+}
+.heads{
+  text-align: center;
+}
+h2{
+  font-size: 25px;
+}
+.abtband{
+  float: right;
+  border 2px solid;
+  height: 60vh;
+  width: 140vh;
+  margin-right: 15px;
+  margin-top: 15px;
+  border: 2px solid grey;
+  border-radius: 10px
+}
+.abttxt{
+  float: left;
+  //background-color: yellow;
+  height: 60vh;
+  width: 95vh;
+  //text-align: center;
+}
+.abtpic{
+  float: right;
+  //background-color: green;
+  height: 60vh;
+  width: 45vh;
+}
+.abtpicpic{
+  height:80%;
+  width:100%;
+  padding-top: 40px;
+}
+.pics{
+  height: 35vh;
+  width: 140vh;
+  border: 2px solid grey;
+  margin-top: 44%;
+}
+.picsd{
+  height: 100%;
+  width: 33%;
+}
